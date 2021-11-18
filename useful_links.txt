@@ -1,3 +1,8 @@
 
 555 timer tutorial;https://www.electronics-tutorials.ws/waveforms/555_timer.html
+555 Oscillator Tutorial;https://www.electronics-tutorials.ws/waveforms/555_oscillator.html
 
+
+Errores de simulación en Multisim cuando ejecuto mi simulación;https://knowledge.ni.com/KnowledgeArticleDetails?id=kA00Z0000019RqVSAU&l=es-CO
+Simulation time change multisim;https://superuser.com/questions/1004203/simulation-time-change-multisim
+revistas cekit;https://www.electronicabasicachile.com/?page_id=1024
